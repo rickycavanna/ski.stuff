@@ -23,10 +23,11 @@ The goal of ski.stuff is to ...
 
 ## Installation
 
-You can install the development version of ski.stuff like so:
+You can install the development version of ski.stuff from [GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("devtools")
+devtools::install_github("rickycavanna/ski.stuff")
 ```
 
 ## Example
